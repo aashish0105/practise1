@@ -6,4 +6,8 @@ This is Third line in Secondbranch
 This is line of code in Firstbranch
 This is second line of code in Firstbranch
 This is changed Third line of code in Firstbranch
+<<<<<<< HEAD
+>>>>>>> Thirdbranch
+=======
+This is Fourth line of code in Thirdbranch
 >>>>>>> Thirdbranch
