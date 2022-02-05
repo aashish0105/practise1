@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is first line in file1
 This is Second line in Secondbranch
 This is Third line in Secondbranch
 This is Changed Fourth line in Thirdbranch
+=======
+This is first line in file1 in Thirdbranch
+>>>>>>> Thirdbranch
